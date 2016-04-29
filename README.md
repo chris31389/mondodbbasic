@@ -1,4 +1,4 @@
-# mondodbbasic
+# mongodbbasic
 basic mongodb exercise
 
 install [mongoDb](https://www.mongodb.org/downloads#production) for windows.  You may need to add windows environment variables for mongodb bin folder.
