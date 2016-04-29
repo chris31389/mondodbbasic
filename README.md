@@ -1,7 +1,7 @@
 # mondodbbasic
 basic mongodb exercise
 
-install mongodb for windows.  You may need to add windows environment variables for mongodb bin folder.
+install [mongoDb](https://www.mongodb.org/downloads#production) for windows.  You may need to add windows environment variables for mongodb bin folder.
 
 create a db folder next to the package.json.
 
