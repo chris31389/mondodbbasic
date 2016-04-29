@@ -1,0 +1,2 @@
+# mondodbbasic
+basic mongodb exercise
